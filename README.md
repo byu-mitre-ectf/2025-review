@@ -6,47 +6,47 @@ The attack packages and code repositories for each team that made it to the Atta
 
 | Team ID | School Name | Code Repo | Primary Language |
 |---------|-------------|-----------|------------------|
-| Binghamton | Binghamton University | [link](https://github.com/byu-mitre-ectf/2025-team-Binghamton) | C |
-| BWU | Baldwin Wallace University | [link](https://github.com/byu-mitre-ectf/2025-team-BWU) | Rust |
+| Binghamton | Binghamton University | N/A | C |
+| BWU | Baldwin Wallace University | N/A | Rust |
 | BYU | Brigham Young University | [link](https://github.com/byu-mitre-ectf/2025-team-BYU) | C |
-| CAT | Colombe Academy of Technology | [link](https://github.com/byu-mitre-ectf/2025-team-CAT) | C |
-| CCSF | City College of San Francisco | [link](https://github.com/byu-mitre-ectf/2025-team-CCSF) | C++ |
+| CAT | Colombe Academy of Technology | N/A | C |
+| CCSF | City College of San Francisco | N/A | C++ |
 | CMU | Carnegie Mellon University | N/A | C |
-| ERA | Ecole Royale de l'Air | [link](https://github.com/byu-mitre-ectf/2025-team-era) | C |
-| ETSU | East Tennessee State University | [link](https://github.com/byu-mitre-ectf/2025-team-ETSU) | C |
-| Flinders | Flinders University | [link](https://github.com/byu-mitre-ectf/2025-team-Flinders) | C |
-| GT2 | Georgia Institute of Technology | [link](https://github.com/byu-mitre-ectf/2025-team-GT2) | C |
-| IITM | Indian Institute of Technology Madras | [link](https://github.com/byu-mitre-ectf/2025-team-IITM) | Rust |
-| JHU | Johns Hopkins University | [link](https://github.com/byu-mitre-ectf/2025-team-JHU) | C |
-| Mich | University of Michigan | [link](https://github.com/byu-mitre-ectf/2025-team-mich) | C |
-| MichState | Michigan State University | [link](https://github.com/byu-mitre-ectf/2025-team-MichState) | Rust |
-| MIT | Massachusetts Institute of Technology | [link](https://github.com/byu-mitre-ectf/2025-team-MIT) | C |
-| Morgan | Morgan State University | [link](https://github.com/byu-mitre-ectf/2025-team-Morgan) | C |
-| MVHS | Mountain View High School | [link](https://github.com/byu-mitre-ectf/2025-team-MVHS) | Rust |
-| NEU1 | Northeastern University | [link](https://github.com/byu-mitre-ectf/2025-team-NEU1) | C |
-| NEU2 | Northeastern University | [link](https://github.com/byu-mitre-ectf/2025-team-neu2) | C |
-| NYIT | New York Institute of Technology | [link](https://github.com/byu-mitre-ectf/2025-team-NYIT) | C |
-| NYU | New York University | [link](https://github.com/byu-mitre-ectf/2025-team-NYU) | C |
-| OC | Oklahoma Christian University | [link](https://github.com/byu-mitre-ectf/2025-team-OC) | C |
-| OSU | The Ohio State University | [link](https://github.com/byu-mitre-ectf/2025-team-OSU) | Zig |
-| Parkway | Parkway | [link](https://github.com/byu-mitre-ectf/2025-team-parkway) | Rust |
-| Purdue2 | Purdue University | [link](https://github.com/byu-mitre-ectf/2025-team-Purdue2) | Rust |
-| Purdue3 | Purdue University | [link](https://github.com/byu-mitre-ectf/2025-team-Purdue3) | Rust |
-| RPI | Rensselaer Polytechnic Institute | [link](https://github.com/byu-mitre-ectf/2025-team-RPI) | C |
-| SEMO | Southeast Missouri State University | [link](https://github.com/byu-mitre-ectf/2025-team-SEMO) | C |
-| Trento | University of Trento | [link](https://github.com/byu-mitre-ectf/2025-team-trento) | C |
-| TTU | Texas Tech University | [link](https://github.com/byu-mitre-ectf/2025-team-TTU) | C |
-| Tufts | Tufts University | [link](https://github.com/byu-mitre-ectf/2025-team-Tufts) | C |
-| UCCS1 | University of Colorado Colorado Springs | [link](https://github.com/byu-mitre-ectf/2025-team-UCCS1) | C |
-| UCF | University of Central Florida | [link](https://github.com/byu-mitre-ectf/2025-team-UCF) | C |
-| UCI | University of California, Irvine | [link](https://github.com/byu-mitre-ectf/2025-team-UCI) | C |
-| UCLA | University of California, Los Angeles | [link](https://github.com/byu-mitre-ectf/2025-team-UCLA) | C |
-| UConn | University of Connecticut | [link](https://github.com/byu-mitre-ectf/2025-team-uconn) | C |
-| UCSC | University of California, Santa Cruz | [link](https://github.com/byu-mitre-ectf/2025-team-UCSC) | Rust |
-| UIUC | University of Illinois Urbana-Champaign | [link](https://github.com/byu-mitre-ectf/2025-team-UIUC) | Rust |
-| UNHamp | University of New Hampshire | [link](https://github.com/byu-mitre-ectf/2025-team-UNHamp) | C |
-| UNO | University of Nebraska Omaha | [link](https://github.com/byu-mitre-ectf/2025-team-UNO) | C |
-| USA | University of South Alabama | [link](https://github.com/byu-mitre-ectf/2025-team-USA) | Rust |
-| USAFA | United States Air Force Academy | [link](https://github.com/byu-mitre-ectf/2025-team-USAFA) | Rust |
-| UTEP | University of Texas at El Paso | [link](https://github.com/byu-mitre-ectf/2025-team-UTEP) | C |
-| Washington | University of Washington | [link](https://github.com/byu-mitre-ectf/2025-team-Washington) | C |
+| ERA | Ecole Royale de l'Air | N/A | C |
+| ETSU | East Tennessee State University | N/A | C |
+| Flinders | Flinders University | N/A | C |
+| GT2 | Georgia Institute of Technology | N/A | C |
+| IITM | Indian Institute of Technology Madras | N/A | Rust |
+| JHU | Johns Hopkins University | N/A | C |
+| Mich | University of Michigan | N/A | C |
+| MichState | Michigan State University | N/A | Rust |
+| MIT | Massachusetts Institute of Technology | N/A | C |
+| Morgan | Morgan State University | N/A | C |
+| MVHS | Mountain View High School | N/A | Rust |
+| NEU1 | Northeastern University | N/A | C |
+| NEU2 | Northeastern University | N/A | C |
+| NYIT | New York Institute of Technology | N/A | C |
+| NYU | New York University | N/A | C |
+| OC | Oklahoma Christian University | N/A | C |
+| OSU | The Ohio State University | N/A | Zig |
+| Parkway | Parkway | N/A | Rust |
+| Purdue2 | Purdue University | N/A | Rust |
+| Purdue3 | Purdue University | N/A | Rust |
+| RPI | Rensselaer Polytechnic Institute | N/A | C |
+| SEMO | Southeast Missouri State University | N/A | C |
+| Trento | University of Trento | N/A | C |
+| TTU | Texas Tech University | N/A | C |
+| Tufts | Tufts University | N/A | C |
+| UCCS1 | University of Colorado Colorado Springs | N/A | C |
+| UCF | University of Central Florida | N/A | C |
+| UCI | University of California, Irvine | N/A | C |
+| UCLA | University of California, Los Angeles | N/A | C |
+| UConn | University of Connecticut | N/A | C |
+| UCSC | University of California, Santa Cruz | N/A | Rust |
+| UIUC | University of Illinois Urbana-Champaign | N/A | Rust |
+| UNHamp | University of New Hampshire | N/A | C |
+| UNO | University of Nebraska Omaha | N/A | C |
+| USA | University of South Alabama | N/A | Rust |
+| USAFA | United States Air Force Academy | N/A | Rust |
+| UTEP | University of Texas at El Paso | N/A | C |
+| Washington | University of Washington | N/A | C |

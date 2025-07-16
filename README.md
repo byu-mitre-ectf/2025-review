@@ -14,7 +14,7 @@ The attack packages and code repositories for each team that made it to the Atta
 | CMU | Carnegie Mellon University | N/A | C |
 | ERA | Ecole Royale de l'Air | N/A | C |
 | ETSU | East Tennessee State University | N/A | C |
-| Flinders | Flinders University | N/A | C |
+| Flinders | Flinders University | [link](https://github.com/byu-mitre-ectf/2025-team-Flinders) | C |
 | GT2 | Georgia Institute of Technology | N/A | C |
 | IITM | Indian Institute of Technology Madras | N/A | Rust |
 | JHU | Johns Hopkins University | N/A | C |
